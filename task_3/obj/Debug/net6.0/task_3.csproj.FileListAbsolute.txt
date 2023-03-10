@@ -1,0 +1,15 @@
+/Users/hakimazisov/Desktop/HW9/task_3/bin/Debug/net6.0/task_3
+/Users/hakimazisov/Desktop/HW9/task_3/bin/Debug/net6.0/task_3.deps.json
+/Users/hakimazisov/Desktop/HW9/task_3/bin/Debug/net6.0/task_3.runtimeconfig.json
+/Users/hakimazisov/Desktop/HW9/task_3/bin/Debug/net6.0/task_3.dll
+/Users/hakimazisov/Desktop/HW9/task_3/bin/Debug/net6.0/task_3.pdb
+/Users/hakimazisov/Desktop/HW9/task_3/obj/Debug/net6.0/task_3.csproj.AssemblyReference.cache
+/Users/hakimazisov/Desktop/HW9/task_3/obj/Debug/net6.0/task_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakimazisov/Desktop/HW9/task_3/obj/Debug/net6.0/task_3.AssemblyInfoInputs.cache
+/Users/hakimazisov/Desktop/HW9/task_3/obj/Debug/net6.0/task_3.AssemblyInfo.cs
+/Users/hakimazisov/Desktop/HW9/task_3/obj/Debug/net6.0/task_3.csproj.CoreCompileInputs.cache
+/Users/hakimazisov/Desktop/HW9/task_3/obj/Debug/net6.0/task_3.dll
+/Users/hakimazisov/Desktop/HW9/task_3/obj/Debug/net6.0/refint/task_3.dll
+/Users/hakimazisov/Desktop/HW9/task_3/obj/Debug/net6.0/task_3.pdb
+/Users/hakimazisov/Desktop/HW9/task_3/obj/Debug/net6.0/task_3.genruntimeconfig.cache
+/Users/hakimazisov/Desktop/HW9/task_3/obj/Debug/net6.0/ref/task_3.dll

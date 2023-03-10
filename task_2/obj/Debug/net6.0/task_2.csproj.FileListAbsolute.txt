@@ -1,0 +1,15 @@
+/Users/hakimazisov/Desktop/HW9/task_2/bin/Debug/net6.0/task_2
+/Users/hakimazisov/Desktop/HW9/task_2/bin/Debug/net6.0/task_2.deps.json
+/Users/hakimazisov/Desktop/HW9/task_2/bin/Debug/net6.0/task_2.runtimeconfig.json
+/Users/hakimazisov/Desktop/HW9/task_2/bin/Debug/net6.0/task_2.dll
+/Users/hakimazisov/Desktop/HW9/task_2/bin/Debug/net6.0/task_2.pdb
+/Users/hakimazisov/Desktop/HW9/task_2/obj/Debug/net6.0/task_2.csproj.AssemblyReference.cache
+/Users/hakimazisov/Desktop/HW9/task_2/obj/Debug/net6.0/task_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakimazisov/Desktop/HW9/task_2/obj/Debug/net6.0/task_2.AssemblyInfoInputs.cache
+/Users/hakimazisov/Desktop/HW9/task_2/obj/Debug/net6.0/task_2.AssemblyInfo.cs
+/Users/hakimazisov/Desktop/HW9/task_2/obj/Debug/net6.0/task_2.csproj.CoreCompileInputs.cache
+/Users/hakimazisov/Desktop/HW9/task_2/obj/Debug/net6.0/task_2.dll
+/Users/hakimazisov/Desktop/HW9/task_2/obj/Debug/net6.0/refint/task_2.dll
+/Users/hakimazisov/Desktop/HW9/task_2/obj/Debug/net6.0/task_2.pdb
+/Users/hakimazisov/Desktop/HW9/task_2/obj/Debug/net6.0/task_2.genruntimeconfig.cache
+/Users/hakimazisov/Desktop/HW9/task_2/obj/Debug/net6.0/ref/task_2.dll
